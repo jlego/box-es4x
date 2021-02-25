@@ -7,7 +7,7 @@
 
 ## 安装
 
-* 确保已先安装[nodejs](https://nodejs.org/en/)和[GraalVM](https://www.graalvm.org/)
+* 确保已先安装[nodejs](https://nodejs.org/en/)和[GraalVM](https://www.graalvm.org/)(多语言运行时)
 * `$ mkdir 项目目录`
 * `$ cd 项目目录`
 * `$ npm init @es4x project`
