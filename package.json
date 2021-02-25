@@ -1,0 +1,23 @@
+{
+  "name": "box-es4x",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlego/box-es4x.git"
+  },
+  "keywords": [
+    "box-es4x"
+  ],
+  "author": "jlego",
+  "license": "ISC",
+  "dependencies": {
+    "@vertx/core": "4.0.0",
+    "@vertx/mongo-client": "^4.0.2",
+    "@vertx/web": "^4.0.2"
+  }
+}
