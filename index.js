@@ -1,5 +1,5 @@
 /**
- * 应用主体
+ * 应用主体类
  */
 import { Router, TimeoutHandler } from "@vertx/web";
 const { success, error, catchErr } = require("./func");
@@ -30,7 +30,7 @@ module.exports = {
         require(`../.${config.modulesPath}/${pathArr[pathArr.length - 1]}/`);
       }
     }
-    // http服务
+    // http服务监听
     let port = _port || config.port;
     vertx.createHttpServer().requestHandler(router).listen(port);
     console.log(`Server listening at: http://localhost:${port}/`);
