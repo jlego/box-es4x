@@ -4,3 +4,8 @@
 ## 功能
 
 * [schema - noSQL 数据模型](/schema.js)
+* 
+## 安装
+
+* 确保已先安装[nodejs](https://nodejs.org/en/)和[GraalVM](https://www.graalvm.org/)
+* 
