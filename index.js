@@ -4,8 +4,8 @@
 import { Router, TimeoutHandler } from "@vertx/web";
 const { success, error, catchErr } = require("./func");
 const config = {
-  modulesPath: './src',
-  port: 8080,
+  modulesPath: './src', //业务模块路径
+  port: 8080,  //服务监听端口
 }
 
 // 路由
