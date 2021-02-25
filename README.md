@@ -12,4 +12,5 @@
 * `$ cd 项目目录`
 * `$ npm init @es4x project`
 * `$ npm install`
+* `$ npm install -s box-es4x`
 * `$ npm start`
