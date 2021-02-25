@@ -28,8 +28,8 @@ module.exports = {
   // 数据库
   database: {
     useObjectId: true,
-    connection_string: 'mongodb://127.0.0.1:27017/strapi-project',
-    // db_name: 'strapi-project',
+    connection_string: 'mongodb://127.0.0.1:27017/test_db',
+    // db_name: 'test_db',
     // host: '127.0.0.1',
     // port: 27017,
     // username: '',
