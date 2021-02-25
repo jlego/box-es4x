@@ -122,7 +122,7 @@ module.exports = class Schema{
     return newData;
   }
   
-  // 获取模型数据
+  // 处理数据
   static parse(schema, data) {
     if (schema instanceof Schema) return schema.set(data).get();
     return null;
