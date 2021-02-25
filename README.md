@@ -3,4 +3,4 @@
 
 ## 功能
 
-* [schema - noSQL ORM](/schema.js)
+* [schema - noSQL 数据模型](/schema.js)
