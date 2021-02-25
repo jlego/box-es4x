@@ -5,7 +5,7 @@
 
 ## 功能
 
-* [schema - noSQL 数据模型](/schema.js)
+* [schema - noSQL数据模型](/schema.js)
 
 ## 安装
 
@@ -16,3 +16,7 @@
 * `$ npm install`
 * `$ npm install -s box-es4x`
 * `$ npm start`
+
+
+## 其他分享
+* [prisma - 关系型数据ORM库](https://www.prisma.io/)
