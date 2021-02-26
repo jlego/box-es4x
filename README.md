@@ -19,4 +19,4 @@
 
 
 ## 其他分享
-* [prisma - 关系型数据ORM库](https://www.prisma.io/)
+* [prisma - 关系型数据库ORM](https://www.prisma.io/)
